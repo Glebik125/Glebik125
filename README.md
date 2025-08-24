@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glebik125
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Programming (Java)
+- 🌱 I’m currently learning Programming (Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord - Glebik125
 - 😄 Pronouns: He, His
